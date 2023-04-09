@@ -1,4 +1,4 @@
-Ali Haider's Website
+Ali Haider's Website you can visit the site at https://professorwired.github.io/AliHaider.github.io/
 Welcome to my personal website! As a web developer, I created this website to showcase my skills, portfolio, and personal projects.
 
 Technologies Used
